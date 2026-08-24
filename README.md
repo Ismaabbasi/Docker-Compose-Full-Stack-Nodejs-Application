@@ -214,3 +214,5 @@ and you will see the interface of our application.
 
 ## Jenkins CI/CD
 This project is automatically built through Jenkins.
+
+CI/CD pipeline updated on 24 August 2026.
