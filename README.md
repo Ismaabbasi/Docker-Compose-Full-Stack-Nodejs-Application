@@ -2,6 +2,8 @@
 
 ![Docker_Compose](./img/1.png)
 
+CI/CD pipeline configured with Jenkins and Docker.
+
 ## What is Docker Compose
 
 Docker Compose is a tool for defining and running multi-container Docker applications using a YAML file to configure the application's services, networks, and volumes.
