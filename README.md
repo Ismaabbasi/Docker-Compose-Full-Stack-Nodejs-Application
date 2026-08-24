@@ -210,3 +210,6 @@ and you will see the interface of our application.
 
 ![Application User Interface](./img/3.png)
 ![Application User Interface](./img/4.png)
+
+## Jenkins CI/CD
+This project is automatically built through Jenkins.
